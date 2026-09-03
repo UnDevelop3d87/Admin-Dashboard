@@ -1,0 +1,20 @@
+Theme State
+│
+├── Light Mode
+│   ├── Sky gradient
+│   ├── White cards
+│   ├── Gold accents
+│   └── Blooming sunflower
+│
+├── Dark Mode
+│   ├── Midnight background
+│   ├── Charcoal cards
+│   ├── Amber accents
+│   └── Moonflower state
+│
+└── Seasonal Layer
+    ├── Spring
+    ├── Summer
+    ├── Fall
+    ├── Winter
+    └── Holiday themes
