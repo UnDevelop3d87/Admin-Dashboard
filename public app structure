@@ -1,0 +1,38 @@
+FRH PUBLIC APP
+│
+├── Header / Navigation
+│   ├── 🌻 FRH logo
+│   ├── Resources
+│   ├── Categories
+│   ├── Events
+│   ├── About
+│   └── Get Help
+│
+├── Emergency Access Bar
+│
+├── Hero
+│   ├── Fresno / Central Valley identity
+│   ├── Resource search
+│   ├── Quick categories
+│   └── 🌻 Sunny introduction
+│
+├── Community Command Center
+│
+├── Browse by Need
+│   ├── Housing
+│   ├── Food
+│   ├── Emergency
+│   ├── Utilities
+│   ├── Jobs
+│   ├── Healthcare
+│   ├── Family
+│   ├── Legal
+│   ├── Transportation
+│   ├── Seniors
+│   └── Events
+│
+├── Featured Resources
+│
+├── Community Calendar
+│
+└── Footer
